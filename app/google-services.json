@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364196474746",
+    "project_id": "pampangnavigation",
+    "storage_bucket": "pampangnavigation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364196474746:android:630736614b34c96a97f0c3",
+        "android_client_info": {
+          "package_name": "com.example.pampangnav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAADHLypK6yNsDIVQN_I-RneZtZcDzKngM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
